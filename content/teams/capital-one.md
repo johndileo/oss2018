@@ -13,7 +13,7 @@ status          :
 members:
     - Fraser Scott
     - Neil Barlow
-    - Capital One 3
-    - Capital One 4
+    - Mark Stickley
+    - Lee Tunnicliffe
 notes :
 ---

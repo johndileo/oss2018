@@ -8,16 +8,18 @@ when_day     : Tue
 when_time    : PM-1
 room_layout  :                    #
 room_id      : room-6
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CB12V219S
 status       : add-content              # draft, review-content, done
 description  :
 organizers   :
+    - Naushad Saboor
     - PBX-GS
 participants :
     - Andrew Johnstone
     - James Martin
     - Francois Raynaud
     - Orid Ahmed
+    - Franziska Buehler
 
 
 

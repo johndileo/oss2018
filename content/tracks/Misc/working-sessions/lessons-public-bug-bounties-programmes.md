@@ -10,7 +10,7 @@ room_id      : villa-3
 session_slack: https://os-summit.slack.com/messages/CAVD37L6N
 status       : review-content      # draft, review-content, done
 description  : List of top 10 lessons from bug bounty experts and guidelines on improving bug bounty programmes
-organizers   :
+organizers   : Stu Hirst
 participants :
   - Prakash Sharma
   - John Killilea
@@ -26,6 +26,7 @@ While bug bounties are seen as a lucrative way to make quick money for researche
 
 ## What
 
+- What is required to kick off a bug bounty? Considerations/implications/inputs
 -	Top 10 lessons that people have learned
 -	How to improve bug bounty programmes
 -	How to anticipate and therefore avoid problems

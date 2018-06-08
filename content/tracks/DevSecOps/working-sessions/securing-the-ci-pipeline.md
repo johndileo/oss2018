@@ -17,6 +17,8 @@ organizers   :
     - Francois Raynaud
 description  : Secure the CI/CD pipeline
 participants :
+    - Arne Zismer
+    - Franziska Buehler
 ---
 
 ## Why

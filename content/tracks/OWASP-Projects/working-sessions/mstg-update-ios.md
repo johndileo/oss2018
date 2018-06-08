@@ -7,7 +7,7 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                    # review with summit team "yes"
 when_day     : Wed
-when_time    : PM-1, PM-2
+when_time    : PM-2
 room_layout  :                    #
 room_id      : villa-3
 session_slack: https://os-summit.slack.com/messages/CAWEZBWJK
@@ -15,6 +15,7 @@ status       : done              # draft, review-content, done
 organizers   : Sven Schleier
 participants :
     - Carlos Holguera
+    - Arne Zismer
 description  : Mobile Security Working Session
 ---
 

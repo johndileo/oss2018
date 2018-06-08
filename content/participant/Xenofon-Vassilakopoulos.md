@@ -1,11 +1,11 @@
 ---
 title           : Xenofon Vassilakopoulos
 type            : participant
-job_title       :
-company         : Twelvesec
+job_title       : Information Security Consultant
+company         : TwelveSec
 travel_from     : Greece
 image           : 
-linkedin        : 
+linkedin        : xvass
 twitter         : Twelvesec
 facebook        :
 website         : https://www.twelvesec.com/
@@ -16,6 +16,9 @@ eventbrite_id   :
 pre-summit      :
 status          :
 sessions:
+  - Update MSTG with changes in Android 8 (Oreo)
+  - Update MSTG with changes in iOS 11
+  - Automation of MASVS with BDD
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 

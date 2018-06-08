@@ -14,15 +14,17 @@ session_slack: https://os-summit.slack.com/messages/CAV7FLP60
 status       : review-content                   # draft, review-content, done
 description  : How to secure Lambda functions
 organizers   :
-    - Simon Pavillon
+    - Giorgio Bonfiglio
+    - James Wharton
 participants :
     - Andrew Johnstone
-    - James Wharton
     - John Killilea
     - Vladimir Voskresenskiy
     - Jaimen Lathia
     - Chris Allen
-    - Giorgio Bonfiglio
+    - Simon Pavillon
+    - Stephen de Vries
+    - Mario Platt
 ---
 
 ## Why
